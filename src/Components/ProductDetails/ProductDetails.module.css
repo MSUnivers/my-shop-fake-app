@@ -1,0 +1,13 @@
+.card_detail {
+  display: flex;
+  justify-content: space-around;
+}
+.card_detail img {
+  width: 300px;
+}
+.info {
+  border: 1px solid gray;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+}

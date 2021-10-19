@@ -1,0 +1,8 @@
+.product_container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    justify-content: space-around;
+    gap: 1rem;
+    
+}
